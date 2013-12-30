@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233828</millis>
+  <sequence>0</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND LOGIN	u1:u1:null:172.18.179.16:30001:SUPERPEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233953</millis>
+  <sequence>1</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET ONLY ONE SUPER PEER ONLINE</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233953</millis>
+  <sequence>2</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET ROLE INFORMATION</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233953</millis>
+  <sequence>3</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233968</millis>
+  <sequence>4</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET SCHEMA INFORMATION</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233968</millis>
+  <sequence>5</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>GET CACHE_DB_INDEX</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:20</date>
+  <millis>1253945300987</millis>
+  <sequence>11</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND INSERT ERP TABLE INDEX	ERPINSERTTABLEINDEX:172.18.179.16_30001:172.18.179.16_30001:allergy:medical_test:medication:patient:physician:treat:visit:0_1</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:20</date>
+  <millis>1253945300987</millis>
+  <sequence>12</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET INSERT ERP TABLE INDEX</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:21</date>
+  <millis>1253945301003</millis>
+  <sequence>13</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND INSERT ERP TABLE INDEX	ERPINSERTTABLEINDEX:172.18.179.16_30001:172.18.179.16_30001:allergy:medical_test:medication:patient:physician:treat:visit:0_1</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:21</date>
+  <millis>1253945301065</millis>
+  <sequence>14</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET CACHE_DB_INDEX</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343052</millis>
+  <sequence>15</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343052</millis>
+  <sequence>16</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343130</millis>
+  <sequence>17</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343130</millis>
+  <sequence>18</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343177</millis>
+  <sequence>19</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343177</millis>
+  <sequence>20</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary948826</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343177</millis>
+  <sequence>21</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>18</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient570706</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:03</date>
+  <millis>1253945343193</millis>
+  <sequence>22</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347240</millis>
+  <sequence>23</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347240</millis>
+  <sequence>24</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347318</millis>
+  <sequence>25</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347318</millis>
+  <sequence>26</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347365</millis>
+  <sequence>27</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary249881</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347365</millis>
+  <sequence>28</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347365</millis>
+  <sequence>29</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>21</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:allergy509558</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:07</date>
+  <millis>1253945347365</millis>
+  <sequence>30</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378226</millis>
+  <sequence>31</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378226</millis>
+  <sequence>32</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378319</millis>
+  <sequence>33</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378319</millis>
+  <sequence>34</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378366</millis>
+  <sequence>35</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary613412</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378366</millis>
+  <sequence>36</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378366</millis>
+  <sequence>37</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>23</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test221569</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:38</date>
+  <millis>1253945378366</millis>
+  <sequence>38</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395586</millis>
+  <sequence>39</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395586</millis>
+  <sequence>40</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395680</millis>
+  <sequence>41</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395680</millis>
+  <sequence>42</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395726</millis>
+  <sequence>43</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395726</millis>
+  <sequence>44</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary853911</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395742</millis>
+  <sequence>45</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>26</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient375195</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395742</millis>
+  <sequence>46</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395758</millis>
+  <sequence>47</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395758</millis>
+  <sequence>48</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395867</millis>
+  <sequence>49</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395867</millis>
+  <sequence>50</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>27</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395914</millis>
+  <sequence>51</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395914</millis>
+  <sequence>52</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary938781</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395914</millis>
+  <sequence>53</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>28</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test256534</message>
+</record>
+<record>
+  <date>2009-09-26T14:09:55</date>
+  <millis>1253945395914</millis>
+  <sequence>54</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434557</millis>
+  <sequence>55</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434557</millis>
+  <sequence>56</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434619</millis>
+  <sequence>57</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434619</millis>
+  <sequence>58</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434666</millis>
+  <sequence>59</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary218227</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434666</millis>
+  <sequence>60</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434697</millis>
+  <sequence>61</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>29</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient865840</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434697</millis>
+  <sequence>62</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434728</millis>
+  <sequence>63</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434728</millis>
+  <sequence>64</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434807</millis>
+  <sequence>65</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434807</millis>
+  <sequence>66</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434853</millis>
+  <sequence>67</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary293355</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434853</millis>
+  <sequence>68</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434869</millis>
+  <sequence>69</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>30</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test867988</message>
+</record>
+<record>
+  <date>2009-09-26T14:10:34</date>
+  <millis>1253945434869</millis>
+  <sequence>70</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:16</date>
+  <millis>1253945476902</millis>
+  <sequence>71</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:16</date>
+  <millis>1253945476902</millis>
+  <sequence>72</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:16</date>
+  <millis>1253945476981</millis>
+  <sequence>73</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:16</date>
+  <millis>1253945476981</millis>
+  <sequence>74</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:17</date>
+  <millis>1253945477043</millis>
+  <sequence>75</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:17</date>
+  <millis>1253945477043</millis>
+  <sequence>76</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary770400</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:17</date>
+  <millis>1253945477059</millis>
+  <sequence>77</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>31</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test326269</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:17</date>
+  <millis>1253945477059</millis>
+  <sequence>78</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516561</millis>
+  <sequence>79</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516561</millis>
+  <sequence>80</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516623</millis>
+  <sequence>81</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516623</millis>
+  <sequence>82</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516686</millis>
+  <sequence>83</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516686</millis>
+  <sequence>84</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary773647</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516686</millis>
+  <sequence>85</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>32</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient433006</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516701</millis>
+  <sequence>86</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516733</millis>
+  <sequence>87</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516733</millis>
+  <sequence>88</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516811</millis>
+  <sequence>89</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>27</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516811</millis>
+  <sequence>90</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516842</millis>
+  <sequence>91</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary642228</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516858</millis>
+  <sequence>92</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516858</millis>
+  <sequence>93</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>33</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test443834</message>
+</record>
+<record>
+  <date>2009-09-26T14:11:56</date>
+  <millis>1253945516858</millis>
+  <sequence>94</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551234</millis>
+  <sequence>95</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551250</millis>
+  <sequence>96</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551297</millis>
+  <sequence>97</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551297</millis>
+  <sequence>98</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551359</millis>
+  <sequence>99</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary864852</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551359</millis>
+  <sequence>100</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551359</millis>
+  <sequence>101</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:12:31</date>
+  <millis>1253945551359</millis>
+  <sequence>102</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>34</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test420721</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890064</millis>
+  <sequence>103</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890064</millis>
+  <sequence>104</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890142</millis>
+  <sequence>105</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890142</millis>
+  <sequence>106</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890189</millis>
+  <sequence>107</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary268014</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890189</millis>
+  <sequence>108</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890189</millis>
+  <sequence>109</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>35</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient644205</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890205</millis>
+  <sequence>110</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890221</millis>
+  <sequence>111</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890221</millis>
+  <sequence>112</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890283</millis>
+  <sequence>113</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890283</millis>
+  <sequence>114</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890330</millis>
+  <sequence>115</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary321363</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890330</millis>
+  <sequence>116</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890330</millis>
+  <sequence>117</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:18:10</date>
+  <millis>1253945890330</millis>
+  <sequence>118</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>36</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medical_test968977</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:50</date>
+  <millis>1253945990882</millis>
+  <sequence>119</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:50</date>
+  <millis>1253945990882</millis>
+  <sequence>120</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:50</date>
+  <millis>1253945990976</millis>
+  <sequence>121</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:50</date>
+  <millis>1253945990976</millis>
+  <sequence>122</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991007</millis>
+  <sequence>123</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991023</millis>
+  <sequence>124</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary850756</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991023</millis>
+  <sequence>125</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>37</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient212042</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991023</millis>
+  <sequence>126</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991054</millis>
+  <sequence>127</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991054</millis>
+  <sequence>128</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991132</millis>
+  <sequence>129</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991132</millis>
+  <sequence>130</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991163</millis>
+  <sequence>131</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991163</millis>
+  <sequence>132</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary709522</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991194</millis>
+  <sequence>133</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:19:51</date>
+  <millis>1253945991194</millis>
+  <sequence>134</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>38</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:treat764751</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:19</date>
+  <millis>1253946019977</millis>
+  <sequence>135</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:19</date>
+  <millis>1253946019977</millis>
+  <sequence>136</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020024</millis>
+  <sequence>137</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020024</millis>
+  <sequence>138</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020087</millis>
+  <sequence>139</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020087</millis>
+  <sequence>140</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary627614</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020102</millis>
+  <sequence>141</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>39</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient463805</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020102</millis>
+  <sequence>142</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020102</millis>
+  <sequence>143</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020102</millis>
+  <sequence>144</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020196</millis>
+  <sequence>145</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020196</millis>
+  <sequence>146</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020227</millis>
+  <sequence>147</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary80644</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020243</millis>
+  <sequence>148</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020243</millis>
+  <sequence>149</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>40</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:allergy592064</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:20</date>
+  <millis>1253946020243</millis>
+  <sequence>150</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031181</millis>
+  <sequence>151</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031181</millis>
+  <sequence>152</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031228</millis>
+  <sequence>153</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031228</millis>
+  <sequence>154</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031275</millis>
+  <sequence>155</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031275</millis>
+  <sequence>156</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary9522</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031290</millis>
+  <sequence>157</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>41</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient354938</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031290</millis>
+  <sequence>158</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031368</millis>
+  <sequence>159</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031384</millis>
+  <sequence>160</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031431</millis>
+  <sequence>161</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031431</millis>
+  <sequence>162</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031462</millis>
+  <sequence>163</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary400352</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031478</millis>
+  <sequence>164</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031478</millis>
+  <sequence>165</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>42</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:allergy483197</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:31</date>
+  <millis>1253946031478</millis>
+  <sequence>166</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036572</millis>
+  <sequence>167</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036572</millis>
+  <sequence>168</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036712</millis>
+  <sequence>169</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036712</millis>
+  <sequence>170</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036759</millis>
+  <sequence>171</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary248697</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036759</millis>
+  <sequence>172</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036775</millis>
+  <sequence>173</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>43</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient290300</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036775</millis>
+  <sequence>174</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036791</millis>
+  <sequence>175</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036791</millis>
+  <sequence>176</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036853</millis>
+  <sequence>177</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036853</millis>
+  <sequence>178</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036900</millis>
+  <sequence>179</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036900</millis>
+  <sequence>180</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary942907</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036900</millis>
+  <sequence>181</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>44</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:allergy117496</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:36</date>
+  <millis>1253946036900</millis>
+  <sequence>182</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042666</millis>
+  <sequence>183</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042666</millis>
+  <sequence>184</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042728</millis>
+  <sequence>185</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042728</millis>
+  <sequence>186</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042806</millis>
+  <sequence>187</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary753466</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042806</millis>
+  <sequence>188</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042806</millis>
+  <sequence>189</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>45</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:patient132503</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042806</millis>
+  <sequence>190</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042822</millis>
+  <sequence>191</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042822</millis>
+  <sequence>192</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042885</millis>
+  <sequence>193</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042885</millis>
+  <sequence>194</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042931</millis>
+  <sequence>195</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary749341</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042931</millis>
+  <sequence>196</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042947</millis>
+  <sequence>197</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>46</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:allergy678460</message>
+</record>
+<record>
+  <date>2009-09-26T14:20:42</date>
+  <millis>1253946042947</millis>
+  <sequence>198</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061729</millis>
+  <sequence>199</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061729</millis>
+  <sequence>200</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061792</millis>
+  <sequence>201</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061792</millis>
+  <sequence>202</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061854</millis>
+  <sequence>203</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary900259</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061854</millis>
+  <sequence>204</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061854</millis>
+  <sequence>205</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061854</millis>
+  <sequence>206</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>47</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:visit159936</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061870</millis>
+  <sequence>207</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND QUERY PEER	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061870</millis>
+  <sequence>208</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>GET QUERY PEER</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061917</millis>
+  <sequence>209</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET QUERY PEER RESULT</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061917</millis>
+  <sequence>210</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>SEND QUERY PEER RESULT	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061948</millis>
+  <sequence>211</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>SEND RETRIEVE TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:Temporary768094</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061964</millis>
+  <sequence>212</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET RETRIEVE TUPLES FROM REMOTE TABLE</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061964</millis>
+  <sequence>213</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>48</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30001:medication900477</message>
+</record>
+<record>
+  <date>2009-09-26T14:21:01</date>
+  <millis>1253946061964</millis>
+  <sequence>214</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>GET TUPLES FROM REMOTE TABLE</message>
+</record>
+</log>

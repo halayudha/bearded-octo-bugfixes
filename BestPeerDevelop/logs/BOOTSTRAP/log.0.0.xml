@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233828</millis>
+  <sequence>0</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>GET LOGIN</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233859</millis>
+  <sequence>1</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND ONLY ONE SUPER PEER ONLINE	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233874</millis>
+  <sequence>2</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND SCHEMA INFORMATION	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233890</millis>
+  <sequence>3</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND ROLE INFORMATION	Empty</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233906</millis>
+  <sequence>4</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND CACHE_DB_INDEX	CACHE_DB_INDEX_BODY</message>
+</record>
+<record>
+  <date>2009-09-26T14:07:13</date>
+  <millis>1253945233921</millis>
+  <sequence>5</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>SEND TUPLES FROM REMOTE TABLE	IP=172.18.179.16,Port=30000:SEMANTIC_MAPPING</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:21</date>
+  <millis>1253945301018</millis>
+  <sequence>6</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>GET INSERT ERP TABLE INDEX</message>
+</record>
+<record>
+  <date>2009-09-26T14:08:21</date>
+  <millis>1253945301065</millis>
+  <sequence>7</sequence>
+  <logger>sg.edu.nus</logger>
+  <level>INFO</level>
+  <class>sg.edu.nus.logging.Logger</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>SEND CACHE_DB_INDEX	CACHE_DB_INDEX_BODY</message>
+</record>
+</log>

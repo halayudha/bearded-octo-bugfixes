@@ -1,0 +1,49 @@
+select  * from patient
+
+select  * from patient where mrn like '%S81%'
+
+select  mrn, test_name, value, test_date from test
+
+select  mrn, test_name, value, test_date 
+from test
+where test_name = 'H1N1'
+
+select  test_name, count(mrn)
+from test
+group by test_name
+
+select mrn, visit_date, location, reason from visit
+
+select  test.mrn, first_name, test_name, value 
+from test, patient
+where test_name = 'MCH' and test.mrn = patient.mrn
+
+select  test.mrn, first_name, test_name, value 
+from test, patient
+where test.mrn = patient.mrn
+
+select  test_name, count(test.mrn) 
+from test, patient
+where test_name = 'MCH' and test.mrn = patient.mrn
+group by test_name
+
+select  test_name, count(test.mrn) 
+from test, patient
+where test.mrn = patient.mrn
+group by test_name
+
+select treat.mrn, patient.first_name, physician.first_name
+from treat, physician, patient
+where treat.physician_id = physician.physician_id and treat.mrn = patient.mrn
+
+select  *
+from test, visit
+where test.mrn = visit.mrn
+
+select  *
+from test, visit
+where test.mrn = visit.mrn and test.test_name = visit.reason
+
+select  test.mrn, visit.location
+from test, visit
+where test.mrn = visit.mrn and test.test_name = visit.reason

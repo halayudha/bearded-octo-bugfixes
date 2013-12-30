@@ -1,0 +1,19 @@
+/AbstractIndexEventDispatcher.java/1.3/Tue May  5 12:28:46 2009//
+/AbstractIndexEventHandler.java/1.3/Thu May  7 12:25:12 2009//
+/AbstractIndexEventServer.java/1.2/Sat May  2 07:58:26 2009//
+/IndexActionListener.java/1.2/Sat May  2 07:58:26 2009//
+/IndexEvent.java/1.2/Sat May  2 07:58:26 2009//
+/IndexEventHandleException.java/1.2/Sat May  2 07:58:26 2009//
+/IndexEventServerBindException.java/1.2/Sat May  2 07:58:26 2009//
+/IndexEventType.java/1.2/Sat May  2 07:58:26 2009//
+/IndexOperationException.java/1.2/Sat May  2 07:58:26 2009//
+/KBIndexQueryListener.java/1.2/Sat May  2 07:58:26 2009//
+/KBIndexResultListener.java/1.2/Sat May  2 07:58:26 2009//
+/SPIndexOperateAdapter.java/1.2/Sat May  2 07:58:26 2009//
+/SPIndexPublishListener.java/1.2/Sat May  2 07:58:26 2009//
+/SPIndexQueryListener.java/1.2/Sat May  2 07:58:26 2009//
+/SPIndexRemoveListener.java/1.2/Sat May  2 07:58:26 2009//
+/ServerIndexDispatcher.java/1.2/Sat May  2 07:58:26 2009//
+/ServerIndexManager.java/1.2/Sat May  2 07:58:26 2009//
+D/event////
+D/query////

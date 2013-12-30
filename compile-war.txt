@@ -1,0 +1,24 @@
+in bestpeerUI using compile button of google in eclipse
+
+go to bestpeerUI/war folder and execute jar -cvf bestpeerui.war *
+( or run a .bat file like this:
+del bestpeerui.war
+
+set path=c:\jdk1.5\bin
+
+rem path
+
+jar -cvf bestpeerui.war *
+
+pause
+)
+
+copy this generated war to bestpeer/webapps
+
+(might need to delete the inside folder bestpeerui so that tomcat will unzip the new one)
+(before deploy need to change this in package sg.edu.nus.ui.server  in class servlet 
+	/**
+	 * Set PROXY = false in production Set PROXY = true in develop phase
+	 */
+	private static boolean PROXY = true; --> to false
+)
