@@ -193,12 +193,12 @@ public class LogManager {
 			sqlCommand = sqlCommand.replace('\'', ' ');
 			
 			if (duration < 0) {
-				sql = "insert into log_query (qid, query, time) values (" //
+				sql = "insert into LOG_QUERY (qid, query, time) values (" //
 						+ qid + ", '" //
 						+ sqlCommand + "', " //
 						+ "current_timestamp )";
 			} else {
-				sql = "update log_query set duration = " + duration
+				sql = "update LOG_QUERY set duration = " + duration
 						+ " where qid = " + qid;
 			}
 
@@ -382,7 +382,7 @@ public class LogManager {
 				dbconn = getDBConnection();
 
 			Statement stmt = dbconn.createStatement();
-			String sql = "insert into log_msg (head, body, size, sender) values (" //
+			String sql = "insert into LOG_MSG (head, body, size, sender) values (" //
 					+ message.getHead().getMsgType()
 					+ ", '" //
 					+ message.getBody().toString().substring(
@@ -419,7 +419,7 @@ public class LogManager {
 				dbconn = getDBConnection();
 
 			Statement stmt = dbconn.createStatement();
-			String sql = "insert into log_msg (head, body, size, receiver) values (" //
+			String sql = "insert into LOG_MSG (head, body, size, receiver) values (" //
 					+ message.getHead().getMsgType()
 					+ ", '" //
 					+ message.getBody().toString().substring(
