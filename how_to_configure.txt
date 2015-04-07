@@ -1,0 +1,30 @@
+For peer configuration:
+1. Configure  ../BestPeerDevelop/classes/conf/super.ini
+   a. BOOTSTRAP: This is the ip address of your bootstrap server
+   b. BOOTSTARPSERVERPORT: the port number of your bootstrap server, default: 30000[Don't try to change to spelling]
+   c. erpdb: This is the company database system.
+	- erpdb_server  : the ip address, default: localhost
+	- erpdb_port    : the port number, default: 3307
+	- erpdb_dbname  : the database name, default: localdb
+	- erpdb_username: the username, default: root
+        - erpdb_password: the password
+   d. LOCALSERVERPORT: This is the peer port number used for inter-peer communication.
+   e. bestpeerdb: This is the peer database.
+        -bestpeerdb_server: the ip address, default: localhost
+        -bestpeerdb_port  : the port address of the database, default: 3307
+        -bestpeerdb_type  : MySQL
+	-bestpeerdb_username:the username, default: root
+        -bestpeerdb_password:the password
+   f. http_port: This is the peer embedded tomcat's port, default:8088
+   g. GLOBALDB=bestpeerservergs. This is the global schema.
+   h. MATCHESDB=bestpeerschemamapping. This is the mapping of the local table to global schema.
+
+2. Create and populate all necessary databases for peers.
+   a. GenerateLocalDatabaseSample.java
+   b. GenerateRequiredDatabaseForServer.java
+
+3. Sample SQL Scripts are in STORE directory.
+
+
+
+   

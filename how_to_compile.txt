@@ -1,0 +1,9 @@
+for nus packages:
+1. In BestPeerDevelop directory:
+   javac -d classes -cp sg/edu/nus/lib/*:. sg/edu/nus/PATH_TO_YOUR_JAVA_FILES
+
+for dsi packages:
+1. In BestPeerDevelop directory:
+   javac -d classes -cp sg/edu/nus/lib/*:sg/edu/astar/dsi/lib/*:. sg/edu/astar/dsi/JAVA_FILES
+
+Updated by Juniarto Samsudin, 7th April 2015
